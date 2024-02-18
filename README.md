@@ -4,7 +4,7 @@
 
 This project aims to analyze topics found on Twitter related to the pandemic using Non-negative Matrix Factorization (NMF). The goal is to extract latent topics from the tweets and gain insights into the discussions and trends surrounding the pandemic on Twitter.
 
-Link to visualize demo of the project on the browser: [Breast Cancer Predictor](https://breast-cancer-predictor.netlify.app/)
+Link to visualize demo of the project on the browser: [Twitter Topic Modeling with Non-negative Matrix Factorization](https://twitter-topic-modeling-antequera.netlify.app/)
 
 ## Dataset
 
